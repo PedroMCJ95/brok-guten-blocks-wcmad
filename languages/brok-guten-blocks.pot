@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: src/bloque-media-texto/block.js:69
+msgid "Media texto"
+msgstr ""
+
+#: src/bloque-media-texto/block.js:71
+msgid "Bloque que combina una imagen y un texto"
+msgstr ""
+
+#: src/bloque-media-texto/block.js:72
+msgid "bgb"
+msgstr ""
+
+#: src/bloque-media-texto/block.js:72
+msgid "media"
+msgstr ""
+
+#: src/bloque-media-texto/block.js:72
+msgid "texto"
+msgstr ""
+
+#: src/bloque-media-texto/components/editor.js:101
+msgid "Introduce un texto"
+msgstr ""

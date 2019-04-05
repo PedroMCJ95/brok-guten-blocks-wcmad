@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/**
+ * Estilos que afectan a los componentes de mowomo que están en el inspector
+ */
+/**
+ * Estilos que afectan tanto al editor como al view
+ */
+.bgb.bgb-bloque-media-texto {
+  display: flex; }
+  .bgb.bgb-bloque-media-texto .flex-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; }
+    .bgb.bgb-bloque-media-texto .flex-box .bloque-texto {
+      padding: 15px; }

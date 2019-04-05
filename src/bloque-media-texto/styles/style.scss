@@ -1,0 +1,16 @@
+/**
+ * Estilos que afectan tanto al editor como al view
+ */
+
+.bgb.bgb-bloque-media-texto {
+    display: flex;
+    .flex-box {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        .bloque-texto {
+            padding: 15px;
+        }
+    }
+}
